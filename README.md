@@ -1,4 +1,4 @@
-#FYP- "A personal comapanion of an elderly" Chatbot
+# FYP- "A personal comapanion of an elderly" Chatbot
 
 You may run the program on any hosting platform. For this project, Repl.it (replit.com) was used as the hosting platform as choice.
 
